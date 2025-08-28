@@ -34,7 +34,8 @@ The app comes with **Firebase backend support** for authentication and data stor
 
 Light Mode | Dark Mode
 ---|---
-<img src="assets/screenshots/White.png" width="300"> | <img src="assets/screenshots/Black.png" width="300">
+<img src="https://raw.githubusercontent.com/riad535/Habit-Tracker-Using-Flutter/main/assets/screenshots/White.png" width="300">
+<img src="https://raw.githubusercontent.com/riad535/Habit-Tracker-Using-Flutter/main/assets/screenshots/Black.png" width="300">
 
 ---
 
@@ -69,3 +70,4 @@ Pull requests are welcome! If you’d like to improve this app, feel free to for
 
 👉 This way, each step (2, 3, 4, etc.) is **numbered and easy to follow**.  
 Do you also want me to add a **“5️⃣ Build Release APK/IPA”** step so others can build an installable app, or keep it only up to `flutter run`?
+
