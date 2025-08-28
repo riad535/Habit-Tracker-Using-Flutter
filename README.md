@@ -44,6 +44,12 @@ Light Mode | Dark Mode
 ---
 
 ## 🚀 Getting Started
+Follow these steps to set up the project on your local machine:
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/riad535/Habit-Tracker-Using-Flutter.git
+cd Habit-Tracker-Using-Flutter
 
 2️⃣ Install dependencies
 flutter pub get
@@ -94,5 +100,6 @@ This project is open-source and available under the MIT License
 👉 This way, each step (2, 3, 4, etc.) is **numbered and easy to follow**.  
 
 Do you also want me to add a **“5️⃣ Build Release APK/IPA”** step so others can build an installable app, or keep it only up to `flutter run`?
+
 
 
