@@ -45,34 +45,54 @@ Light Mode | Dark Mode
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/riad535/Habit-Tracker-Using-Flutter.git
-cd Habit-Tracker-Using-Flutter
-Install dependencies:
+2️⃣ Install dependencies
 flutter pub get
 
-Setup Firebase:
-1.Create a Firebase project
-2.Enable Authentication (Email/Password)
-3.Setup Cloud Firestore
-4.Download google-services.json (for Android) and GoogleService-Info.plist (for iOS) and add them to your project
+3️⃣ Setup Firebase
+Go to Firebase Console
+Create a new Firebase project
+Enable Authentication (Email/Password)
+Setup Cloud Firestore database
 
-Run the app:
+Download google-services.json (for Android) and place it inside:
+
+android/app/
+
+
+Download GoogleService-Info.plist (for iOS) and place it inside:
+
+ios/Runner/
+
+4️⃣ Run the app
+
+Connect your emulator or physical device, then run:
+
 flutter run
 
-Tech Stack
+📊 Tech Stack
+
 Frontend: Flutter (Dart)
+
 Backend: Firebase (Auth, Firestore)
+
 State Management: Provider
 
-📌 GitHub Repository:
-https://github.com/riad535/Habit-Tracker-Using-Flutter.git
+📌 GitHub Repository
+
+🔗 Habit Tracker Using Flutter
 
 ❤️ Contributing
+
 Pull requests are welcome! If you’d like to improve this app, feel free to fork and create a PR.
 
+📜 License
+
+This project is open-source and available under the MIT License
+.
+
+
 👉 This way, each step (2, 3, 4, etc.) is **numbered and easy to follow**.  
+
 Do you also want me to add a **“5️⃣ Build Release APK/IPA”** step so others can build an installable app, or keep it only up to `flutter run`?
 
 
